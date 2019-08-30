@@ -1,0 +1,18 @@
+{
+  "name": "next-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryomits/next-sample.git",
+  "author": "ryota.mitsui <ryota.mitsui@edge-inc.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
